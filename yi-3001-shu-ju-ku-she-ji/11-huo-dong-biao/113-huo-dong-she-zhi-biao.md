@@ -7,7 +7,7 @@
 | end\_time | varchar\(15\) | 活动结束时间 |  | 否 |
 | user\_can\_take\_time | int | 每人每次活动可参加的次数 | 1 | 否 |
 | activity\_times | int | 活动进行的次数\(例如:限前多少名进行活动,但是前提条件是需要满足预算的要求\) |  |  |
-| is\_forever | int  | 是否为永久活动\(1 位永久,2位否\) |  |  |
+| is\_forever | int | 是否为永久活动\(1 位永久,2位否\) |  | 否 |
 
 
 
