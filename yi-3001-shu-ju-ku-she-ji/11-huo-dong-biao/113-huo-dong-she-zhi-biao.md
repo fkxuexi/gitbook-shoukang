@@ -6,7 +6,7 @@
 | start\_time | varchar\(15\) | 活动开始时间 |  | 否 |
 | end\_time | varchar\(15\) | 活动结束时间 |  | 否 |
 | user\_can\_take\_time | int | 每人每次活动可参加的次数 | 1 | 否 |
-| activity\_times | int | 活动进行的次数\(例如:限前多少名进行活动,但是前提条件是需要满足预算的要求\) |  |  |
+| activity\_times | int | 活动进行的次数 |  |  |
 | is\_forever | int | 是否为永久活动\(1 为永久,2为否\) | 2 | 否 |
 
 #### Ps:activity\_times的前提必须要满足活动预算的要求,会先进行活动预算的判断,然后在进行活动次数的判断
