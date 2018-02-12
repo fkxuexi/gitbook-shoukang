@@ -10,5 +10,7 @@
 | give\_goods\_id | int | 赠送商品的id | 0 | 否 |
 | give\_score | int | 赠送积分 | 0 | 否 |
 
+#### ps:
+
 
 
